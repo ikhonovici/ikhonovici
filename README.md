@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ikhonovici  
+- 👀 I’m interested in cybersecurity, ethical hacking, and cloud security.
+- 🌱 I’m currently learning penetration testing, and advanced cryptography.
+- 💞️ I’m looking to collaborate on security audits, vulnerability assessments, and threat intelligence projects.
+- 📫 How to reach me on Twitter
+- 😄 Pronouns:He/Him 
+- ⚡ Fun fact:I once wrote a script that automatically searches for common vulnerabilities on websites—it caught my own site’s bug!
